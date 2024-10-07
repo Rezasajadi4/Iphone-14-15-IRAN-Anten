@@ -63,11 +63,11 @@
 			<key>PayloadDisplayName</key>
 			<string>Cellular</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.cellular.743E468A-10AF-49A9-B9EE-7D0A9DBD532F</string>
+			<string>com.apple.cellular.693f071f-070b-40c5-ad68-9107a93db0e7</string>
 			<key>PayloadType</key>
 			<string>com.apple.cellular</string>
 			<key>PayloadUUID</key>
-			<string>aa9c5023-3f0e-4d0f-904b-5fbc5da0c9bd</string>
+			<string>ff346a19-da5d-4541-80e6-d24ec5d19da6</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -75,7 +75,7 @@
 	<key>PayloadDisplayName</key>
 	<string>All Operators</string>
 	<key>PayloadIdentifier</key>
-	<string>1e8dc475-ac7e-4ec2-aeeb-948c19a51b0d</string>
+	<string>18e5e827-78fd-4e24-a59d-d75712bb0f19</string>
 	<key>PayloadOrganization</key>
 	<string></string>
 	<key>PayloadRemovalDisallowed</key>
@@ -83,7 +83,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>b82e890e-4fcd-4dfd-a6d9-ad3808251e91</string>
+	<string>f0b06905-fee3-49b7-97cd-507452d3a32a</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
